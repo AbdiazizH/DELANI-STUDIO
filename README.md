@@ -17,7 +17,7 @@ The Delani website is compatible with devices of all sizes and all OS's, and con
 - HTML
 - Css
 - JQuery
-## Author
+## Autho
 Abdiaziz Hussein Mohamed
 ## License
 [MIT]
